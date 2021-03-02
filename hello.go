@@ -42,6 +42,7 @@ func array_point() {
 		fmt.Println(i, v)
 	}
 }
+<<<<<<< HEAD
 
 //字符串指针
 func array_string() {
@@ -50,3 +51,5 @@ func array_string() {
 		fmt.Println(i)
 	}
 }
+=======
+>>>>>>> 4bcf30bd3fd995fd11048245ef9be3968fe28faa
